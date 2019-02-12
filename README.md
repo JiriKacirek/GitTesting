@@ -1,1 +1,3 @@
+Commit from master
+
 # GitTesting
